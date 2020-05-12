@@ -1,0 +1,1 @@
+node compare.js "shoes" "./info.json"
